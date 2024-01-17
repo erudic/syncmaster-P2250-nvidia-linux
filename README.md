@@ -1,0 +1,1 @@
+# syncmaster-P2250-nvidia-linux
